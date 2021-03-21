@@ -5,6 +5,8 @@ public class NinthTask {
         String s = "Random string";
         if (!(s.endsWith(".")) ){
             System.out.println(s + "." );
+        } else {
+            System.out.println(s);
         }
     }
 }

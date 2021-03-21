@@ -1,7 +1,5 @@
 package Task6;
 
-import javax.sound.midi.Soundbank;
-
 public class SixthTask {
     public static void main(String[] args) {
         String a = "hop";

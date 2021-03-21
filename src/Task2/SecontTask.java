@@ -1,7 +1,5 @@
 package Task2;
 
-import java.io.StringReader;
-
 public class SecontTask {
     public static void main(String[] args) {
 
